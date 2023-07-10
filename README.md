@@ -1,4 +1,11 @@
-### Hi there 👋
+###  👋 Hello, I'm Alex
+
+I love backend development!
+
+No matter what language you use, the world of backend is limitless.
+
+Telegram: [@AlexKuzz](https://t.me/AlexKuzz)
+
 
 <!--
 **wollkey/wollkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
